@@ -9,7 +9,7 @@ creator: Unknown
 _date: 1940
 source: Internet Archive
 
-_path: /media_files/images/emperornapoleon.jpg 
+_path: /media_files/images/1366x768-Unit-731-700x459.jpg
 layout: media_description
 
 --- 

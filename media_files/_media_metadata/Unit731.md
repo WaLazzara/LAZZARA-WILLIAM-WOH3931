@@ -3,7 +3,7 @@
 name: Unit731
 media_type: image
 
-_title: Unit 731
+_title: Unit731
 description: Conductors dispose of the body of a victim
 creator: Unknown
 _date: 1940

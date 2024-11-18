@@ -7,7 +7,16 @@ number: 2
 # Analysis
 # Unit 731- Brandon Tice
 
-	Unit 731, known officially in Japan as the Epidemic Prevention and Water Purification Department, was a division of the Japanese Army that performed scientific experiments on unwilling human test subjects. These test subjects were most often Chinese and Manchurian civilians or Prisoners of War (POWs). The scientific experiments were performed in Manchukuo, a Japanese puppet state in Manchuria, starting in 1936 and lasting until 1945. Manchukuo was chosen as the location for these experiments as it allowed for Unit 731, led by Shirō Ishii, to avoid legal issues in mainland Japan that would prevent them from performing their experiments. Unit 731 performed a wide variety of tests on their subjects, including biological testing, pressure chamber tests, and weapons testing. This testing constitutes war crimes against civilians demonstrating Japanese power through cruelty and humiliating people that they saw as “racially inferior.”
+	Unit 731, known officially in Japan as the Epidemic Prevention and Water Purification Department,
+was a division of the Japanese Army that performed scientific experiments on unwilling human test subjects.
+These test subjects were most often Chinese and Manchurian civilians or Prisoners of War (POWs).
+The scientific experiments were performed in Manchukuo, a Japanese puppet state in Manchuria,
+starting in 1936 and lasting until 1945. Manchukuo was chosen as the location for these experiments
+as it allowed for Unit 731, led by Shirō Ishii, to avoid legal issues in mainland Japan that would
+prevent them from performing their experiments. Unit 731 performed a wide variety of tests
+on their subjects, including biological testing, pressure chamber tests, and weapons testing.
+This testing constitutes war crimes against civilians demonstrating Japanese power through cruelty
+and humiliating people that they saw as “racially inferior.”
  
 ## Prisoners
 	Those chosen to participate in experimentation by Unit 731 were often healthy individuals, as Japanese scientists wanted to have the healthiest and most able-bodied individuals as test subjects. Furthermore, the Japanese chose them due to their perceived “racial superiority” over all other Asian populations. The civilian or POW test subjects were given a nutritious diet to keep them healthy enough for testing. Additionally, while most victims of Unit 731 were Chinese or Manchurian, there was a small number of Russians used in experiments.

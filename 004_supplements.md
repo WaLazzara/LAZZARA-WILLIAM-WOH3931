@@ -10,7 +10,7 @@ Do you have supplementary materials (such as media files) or links for further i
 
 # Timeline
 
-<iframe class='timeline-iframe' src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Gw_EJ95giHi13dl2QpMCTimXzm8lBhT-fR7Po2Q6HFc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe class='timeline-iframe' src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Gw_EJ95giHi13dl2QpMCTimXzm8lBhT-fR7Po2Q6HFc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='750' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
 # Supplementary Websites

@@ -8,5 +8,9 @@ Japanese nationalism stemmed from an intense policy of state Shinto that establi
 
 To maintain control over its newly acquired colonies, Japan perpetrated atrocities against civilians and prisoners of war in these territories, both before and during the Second World War. These horrors comprised of massacre, rape, forced labor, and human experimentation. This project discusses three atrocities committed by the Japanese during WWII; the experiments of Unit 731, Nanjing Massacre, and the Bataan Death March. These war crimes reflect a brutal strategy aimed at intimidating dissident populations, humiliating POWs, and showcasing power through cruelty, justified through duty to the emperor and the goal of liberation of Japan from Western influence.
 
+# Overview
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Screeshot'" %}
+{% include media.html pages=media %}
+
 [^1]: First example footnote. View other pages to see sample methods of working with Markdown.
 [^2]: I copied this text from this [website](https://www.lipsum.com/feed/html) 

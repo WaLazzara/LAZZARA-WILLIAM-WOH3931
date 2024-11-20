@@ -3,6 +3,10 @@ layout: default
 title: Introduction
 number: 1
 ---
+# Bandit Hunting: Japanese Wartime Propaganda
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'BanditHunting'" %}
+{% include media.html pages=media %}
+
 # Introduction- Will Lazzara
 Japanese nationalism stemmed from an intense policy of state Shinto that established the Emperor as a secular leader and divine authority. Like many nations, Japan had its own set of knightly values, known as the Bushido warrior code. The system dates back to feudal Japan, emphasizing duty, loyalty, and honor toward the emperor until death. After the Meiji Restoration, which re-established the Emperor's authority over the Tokugawa shogunate, Japan made a national effort to modernize to compete with Western powers and eliminate the colonial threat in East Asia. Japan’s rapid industrialization allowed for the militarization of a central army; this was not possible under the Tokugawa shogunate. The military was fiercely loyal to the Emperor and successful in its early conflicts. Impressive victories in the Sino and Russo-Japanese wars opened the Western world’s eyes to the growing threat of the Japanese forces. Japan's annexation of Korea and later Manchuria provided new militaristic opportunities by granting access to vital resources, including precious metals, coal, timber, and agricultural products, which were scarce on the islands. 
 

@@ -1,9 +1,9 @@
 --- 
 
-name: Allied Surrender in Philippines
+name: Bataan1
 media_type: image
 
-_title: Bataan1
+_title: Allied Surrender
 description: In this captured Japanese photograph U.S. and Filipino servicemen surrender to Japanese forces Philippines. 
 creator: Unknown
 _date: 1942

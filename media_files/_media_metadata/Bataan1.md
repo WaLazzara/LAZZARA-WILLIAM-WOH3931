@@ -9,7 +9,7 @@ creator: Unknown
 _date: 1942
 source: U.S. Army
 
-_path: /media_files/images/Batann1.jpg
+_path: /media_files/images/Bataan1.jpg
 layout: media_description
 
 --- 

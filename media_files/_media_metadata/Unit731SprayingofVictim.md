@@ -7,6 +7,6 @@ description: Unit 731 researchers spraying
 _date: Unknown
 source: eBay
 
-_path: /media_files/images/Screenshot 2024-11-19 211226.png
+_path: /media_files/images/Unit 731 researchers spraying.jpeg
 layout: media_description
 ---

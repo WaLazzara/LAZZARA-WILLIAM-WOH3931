@@ -65,6 +65,8 @@ In "The Good Man on Nanking", John Rabe documented his experience during the Nan
 
 As the name for this massacre is also the Rape of Nanjing, John Rabe accounts these events in his diaries and details all facets of this tragedy. On December 17th, Rabe documents, “Last night up to 1,000 women and girls are said to have been raped, about 100 girls at Ginling Girls College alone. You hear of nothing but rape. If husbands or brothers intervene, they’re shot”.[^22] After four days of capturing the city of Nanjing, the Japanese soldiers had committed up to 1,000 cases of rape along with their killings and burning of buildings. This also reveals the brutality of these soldiers in harming those who attempt to intervene in this sexual violence. John Rabe’s diaries demonstrate the variety of harm that the Japanese soldiers had inflicted upon the city of Nanjing during this time of war.
 
+## Images of the Nanjing Massacre
+
 [^13]: "The Mukden Incident of 1931 and the Stimson Doctrine," Office of the Historian. Accessed November 14, 2024.
 [^14]: Editors of Encyclopaedia Britannica, "Manchuria since c. 1900," Britannica. Accessed November 14, 2024.
 [^15]: "Nanjing Massacre," USC Shoah Foundation. Accessed November 14, 2024. 
@@ -82,8 +84,6 @@ As the name for this massacre is also the Rape of Nanjing, John Rabe accounts th
 # Bataan Death March- Arianna Dali
 The Bataan Death March was a horrific war crime led by Japanese military forces in 1942 that resulted in the death of thousands of both American and Filipino soldiers—the same soldiers who just fought for three months in the Battle of Bataan despite facing harsh conditions and inadequate supplies. When U.S. Major General Edward King Jr. surrendered Bataan to the Japanese on April 9, 1942, in the largest surrender in US military history, some 76,000 soldiers were taken prisoner and forced to march 65 miles from the Bataan Peninsula to the San Fernando railhead.[^23] There, they were forced into overcrowded boxcars and shipped to the prisoner of war camp, Camp O’Donnell, where they faced further abuse and inhumane treatment. Along this journey, the soldiers were beaten, starved, dehydrated, shot, bayoneted, and treated generally as subhuman in horrible conditions. This horrifying piece of history truly showcases the cruel nature of Japanese warfare and reflects the brutal strategy they used to demonstrate their power over their enemies and prisoners of war.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Bataan1'" %} {% include media.html pages=media %}
-
 ## Surrender
 At the time of surrender, about 64,000 Filipino troops and about 12,000 American troops were taken prisoner by the Japanese forces, who had little to no food, water, or medical care to provide to the soldiers. During the preceding three month long Battle of Bataan, the soldiers had already faced extremely harsh living conditions, and as they were forced further and further to the end of the Bataan peninsula, their food rations were cut in half, and then halved again in order to barely sustain them for long enough to keep the Japanese at bay for as long as possible.[^24] This deteriorated the strength and health of the soldiers, leaving them tired, weak, and starving—and therefore unable to prevent disease or fight effectively in battle. In this weakened state, the Japanese military rounded up the soldiers and made them begin the 65 mile march towards the San Fernando railhead in the sweltering heat and sun.[^25]
 
@@ -96,6 +96,11 @@ Soldiers were brutally beaten if they could not comply with the unnecessary requ
 The boxcar ride to the prisoner of war camp, Camp O’Donnell, was uncomfortable and deadly, just like the rest of the Bataan Death March. Prisoners were shoved into oven-like boxcars where the temperature was likely 125 degrees, and were unable to move or even breathe because of how tightly they had been crammed inside.[^32] The first to board the boxcars were stuck in these unbearable conditions for eight hours, where many died from suffocation or heat exhaustion, others fainted, and they all stood in the feces and urine of men who had soiled themselves during the 25 mile journey from San Fernando to Capas.[^33] 
 
 When they finally completed this overwhelming journey and the Japanese soldiers let them off of the cramped boxcars, the exhausted prisoners had just a moment of relief where they took a breath of fresh air after hours of being trapped in the heat and stench of a hundred bodies packed together. The Japanese soldiers then forced their prisoners, stiff and numb from the cramped ride, to walk seven more miles to their final destination, Camp O’Donnell, where thousands more Filipinos and Americans died from further Japanese abuse and neglect. Out of the 76,000 prisoners who were captured on Bataan, very few actually returned home to the United States after miraculously surviving the Battle of Bataan, the Death March, and Camp O’Donnell. All of these horrific events reflect the cruelty of the Japanese soldiers and their determination to assert dominance and intimidate their captives to achieve their goals through a brutal war strategy.
+
+## Images of the Bataan Death March
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Bataan1'" %} {% include media.html pages=media %}
+
 
 [^23]: Norman, Michael, and Elizabeth M. Norman. Tears in the Darkness: The Story of the Bataan Death March and Its Aftermath. Macmillan, 2009. 4.
 [^24]: Richard, Gail. “Miracle: Surviving the Bataan Death March.” University of Arkansas at Little Rock, 2014. 8.

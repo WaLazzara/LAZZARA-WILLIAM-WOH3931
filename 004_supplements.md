@@ -15,6 +15,9 @@ Do you have supplementary materials (such as media files) or links for further i
 
 # Supplementary Websites
 
+[National Archives: Interagency Working Group (CIA, OSS, State Department, FBI) declassifies 100,000 pages of records on Japanese War Crimes
+(https://www.archives.gov/press/press-releases/2007-81)
+
 [Queens Chronice: Holocaust Resource Center and Archives hosts Nanjing Massacre exhibit at Queensborough College](https://www.qchron.com/qboro/stories/genocide-and-denial-remembering-the-nanjing-massacre-at-the-hrca/article_ea5cd895-62c8-5774-b0f5-8627e6ff302a.html)
 
 [National WWII Museum: Battle of Bataan Digital Exhibit](https://www.nationalww2museum.org/war/topics/battle-bataan-death-march)

@@ -126,7 +126,8 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 
 # Embedding a Single Video
 
-{% raw %} {% assign media = site.media_metadata | where_exp: "item", "item.name == 'PaulKerchum'" %} {% include media.html pages=media %} {% endraw %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PaulKerchum'" %} 
+{% include media.html pages=media %}
 
 # Linking to a PDF File
 

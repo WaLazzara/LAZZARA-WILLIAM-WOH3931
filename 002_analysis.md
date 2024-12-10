@@ -111,7 +111,7 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 
 
 # Embedding a Single Video
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PaulKerchumOnBataanDeathMarch'" %}
 {% include media.html pages=media %}
 
 # Linking to a PDF File

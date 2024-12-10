@@ -65,6 +65,15 @@ As the name for this massacre is also the Rape of Nanjing, John Rabe accounts th
 
 ## Images of the Nanjing Massacre
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'ForcedUpon'" %}
+{% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'NankingBeheading'" %}
+{% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'MatsuiEnters'" %}
+{% include media.html pages=media %}
+
 [^13]: "The Mukden Incident of 1931 and the Stimson Doctrine," Office of the Historian. Accessed November 14, 2024.
 [^14]: Editors of Encyclopaedia Britannica, "Manchuria since c. 1900," Britannica. Accessed November 14, 2024.
 [^15]: "Nanjing Massacre," USC Shoah Foundation. Accessed November 14, 2024. 

@@ -1,5 +1,5 @@
 ---
-name: Bataan3
+name: Bataan2
 media_type: image
 
 _title: American soldiers begin the march through Bataan.
@@ -8,6 +8,6 @@ creator: Japanese Army
 _date: 1942
 source: U.S. Army
 
-_path: /media_files/images/Bataan3.jpg
+_path: /media_files/images/Bataan2.jpg
 layout: media_description
 ---

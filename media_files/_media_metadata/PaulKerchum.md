@@ -8,6 +8,6 @@ creator: Disabled American Veterans
 _date: 2022
 source: YouTube
 
-_path: https://www.youtube.com/watch?v=YFOlpU1vuZ4
+_path: https://www.youtube.com/embed/YFOlpU1vuZ4?si=GzOdgO7BfwDsGYz6
 layout: media_description
 ---

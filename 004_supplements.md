@@ -14,6 +14,9 @@ Do you have supplementary materials (such as media files) or links for further i
 
 
 # Supplementary Websites
+
+[Queens Chronice: Holocaust Resource Center and Archives hosts Nanjing Massacre exhibit at Queensborough College](https://www.qchron.com/qboro/stories/genocide-and-denial-remembering-the-nanjing-massacre-at-the-hrca/article_ea5cd895-62c8-5774-b0f5-8627e6ff302a.html)
+
 [National WWII Museum: Battle of Bataan Digital Exhibit](https://www.nationalww2museum.org/war/topics/battle-bataan-death-march)
 
 [U.S. Army: Response to the Japanese Invasion of the Philippines](https://www.army.mil/article/179370/after_pearl_harbor_soldiers_held_out_for_months_against_japanese_invasion_of_philippines)

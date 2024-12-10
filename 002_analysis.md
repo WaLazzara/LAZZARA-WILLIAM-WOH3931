@@ -125,8 +125,11 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 
 
 # Embedding a Single Video
-https://www.youtube.com/embed/YFOlpU1vuZ4?si=GzOdgO7BfwDsGYz6 
+
+{% raw %} {% assign media = site.media_metadata | where_exp: "item", "item.name == 'PaulKerchum'" %} {% include media.html pages=media %} {% endraw %}
+
 # Linking to a PDF File
+
 
 [The Japan Times: The Trial of Unit 731]({{site.baseurl}}media_files/The_trial_of_Unit_731.pdf)
 

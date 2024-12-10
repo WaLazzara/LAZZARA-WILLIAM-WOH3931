@@ -85,9 +85,6 @@ As the name for this massacre is also the Rape of Nanjing, John Rabe accounts th
 [^21]:   John Rabe, The Good Man of Nanking (United States of America: Knopf Doubleday Publishing Group, 1997), 77.
 [^22]:  John Rabe, The Good Man of Nanking (United States of America: Knopf Doubleday Publishing Group, 1997), 77.
 
-
-
-
 # Bataan Death March- Arianna Dali
 The Bataan Death March was a horrific war crime led by Japanese military forces in 1942 that resulted in the death of thousands of both American and Filipino soldiers—the same soldiers who just fought for three months in the Battle of Bataan despite facing harsh conditions and inadequate supplies. When U.S. Major General Edward King Jr. surrendered Bataan to the Japanese on April 9, 1942, in the largest surrender in US military history, some 76,000 soldiers were taken prisoner and forced to march 65 miles from the Bataan Peninsula to the San Fernando railhead.[^23] There, they were forced into overcrowded boxcars and shipped to the prisoner of war camp, Camp O’Donnell, where they faced further abuse and inhumane treatment. Along this journey, the soldiers were beaten, starved, dehydrated, shot, bayoneted, and treated generally as subhuman in horrible conditions. This horrifying piece of history truly showcases the cruel nature of Japanese warfare and reflects the brutal strategy they used to demonstrate their power over their enemies and prisoners of war.
 
@@ -108,6 +105,11 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Bataan1'" %} {% include media.html pages=media %}
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Bataan2'" %}
+{% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Bataan3'" %}
+{% include media.html pages=media %}
 
 [^23]: Norman, Michael, and Elizabeth M. Norman. Tears in the Darkness: The Story of the Bataan Death March and Its Aftermath. Macmillan, 2009. 4.
 [^24]: Richard, Gail. “Miracle: Surviving the Bataan Death March.” University of Arkansas at Little Rock, 2014. 8.

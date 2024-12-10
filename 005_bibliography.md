@@ -8,9 +8,9 @@ number: 5
 
 ## Primary Sources
 
-Rabe, John. The Good Man on Nanking: The Diaries of John Rabe. United States of America: 
-Knopf Doubleday Publishing Group, 1997.
+Gold, Hal. *Unit 731: Testimony: Japan’s Wartime Human Experimentation Program*. New York: Tuttle Publishing, 2004. 
 
+Rabe, John. *The Good Man of Nanking: The Diaries of John Rabe*. United States: Knopf Doubleday Publishing Group, 1997.
 
 ## Secondary Sources
 

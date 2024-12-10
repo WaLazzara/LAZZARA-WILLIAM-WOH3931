@@ -23,6 +23,9 @@ Some experiments carried out by Unit 731 did have some scientific benefit, parti
 ## Weapons Testing
 In addition to Biological testing, Unit 731 also performed weapons testing on their human test subjects. The Japanese at Unit 731 performed a wide variety of weapons testing on their Chinese and Manchurian victims to test the lethality and survivability of weapons. Researchers at Unit 731 would tie victims to a pole and shoot them, stab them with bayonets, or torch them with flamethrowers.[^9] Victims would then be studied to see what areas would cause the most blood loss and what areas would kill the victim the quickest. The Japanese would also test the lethality of grenades by having their test subjects stand a certain distance away from an exploding grenade and study how far they could be from the blast and survive this included studying how shrapnel damaged the human body.[^10] Unit 731 also experimented with biological weapons such as bombs containing fleas infected with the Bubonic Plague to use against the Chinese and the Americans to create man-made epidemics among their soldiers.[^11]
 
+## Amnesty and Survivors
+There is a lack of information about the scientific findings of Unit 731. While we know the experiments that were performed and their results from testimonies of the Japanese researchers and guards, information regarding their findings is kept secret by the United States government. This is due to an amnesty deal struck between Unit 731’s researchers and the United States following Japan’s surrender in 1945. In exchange for Unit 731’s research discoveries, the perpetrators of Unit 731’s various war crimes and crimes against humanity were not prosecuted during post-war trials.[^12] Additionally, none of the victims of Unit 731 survived, mostly as a result of the experiments performed on them. Unit 731’s shocking war crimes reflect Japan’s harsh strategy designed to intimidate “lesser” races, humiliate and demoralize prisoners of war, and display power through barbaric acts.
+
 ## Images of Unit 731 Experiment
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Unit731'" %}
@@ -33,11 +36,6 @@ In addition to Biological testing, Unit 731 also performed weapons testing on th
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'ShiroIshii'" %}
 {% include media.html pages=media %}
-
-
- 
-## Amnesty and Survivors
-There is a lack of information about the scientific findings of Unit 731. While we know the experiments that were performed and their results from testimonies of the Japanese researchers and guards, information regarding their findings is kept secret by the United States government. This is due to an amnesty deal struck between Unit 731’s researchers and the United States following Japan’s surrender in 1945. In exchange for Unit 731’s research discoveries, the perpetrators of Unit 731’s various war crimes and crimes against humanity were not prosecuted during post-war trials.[^12] Additionally, none of the victims of Unit 731 survived, mostly as a result of the experiments performed on them. Unit 731’s shocking war crimes reflect Japan’s harsh strategy designed to intimidate “lesser” races, humiliate and demoralize prisoners of war, and display power through barbaric acts.
 
 [^1]: Kishor Johnson, “A Scientific Method to the Madness of Unit 731’s Human Experimentation and Biological Warfare Program,” Journal of the History of Medicine and Allied Sciences 77, no. 1 (2021): 33-34, accessed November 9, 2024, doi: 10.1093/jhmas/jrab044.
 [^2]:  Doug Hickey, et al., “Unit 731 and moral repair,” Journal of Medical Ethics 43, no. 4 (2017): 275; Kishor Johnson, “A Scientific Method to the Madness,” 30, accessed November 9, 2024, doi: 10.1136/medethics-2015-103177.

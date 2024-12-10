@@ -1,13 +1,13 @@
 ---
-name: BanditHunting
+name: MastsuiEnters
 media_type: image
 
-_title: Japanese WWII Propaganda Postcard
-description: Soldiers heading off to go "Bandit Hunting." Top right emblem says "Tighten the chin strap of your iron helmet Bandit Hunting."
-creator: Japanese Wartime Propaganda
-_date: 1942
-source: eBay
+_title: General Iwane Matsui enters a subdued Nanking on Imperial steed.
+description: Shortly after Nanking was captured General Matsui accompanied by Prince Asaka in a display of changing of the guard.
+creator: Unknown
+_date: 1937
+source: Wikipedia Commons
 
-_path: /media_files/images/Screenshot 2024-11-19 211226.png
+_path: /media_files/images/iwane-matsui-enters-nanking.jpg 
 layout: media_description
 ---

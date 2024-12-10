@@ -47,7 +47,7 @@ There is a lack of information about the scientific findings of Unit 731. While 
 [^6]: Doug Hickey, et al., “Unit 731 and moral repair,” 271.
 [^7]: Doug Hickey, et al., “Unit 731 and moral repair,” 271.
 [^8]: Doug Hickey, et al., “Unit 731 and moral repair,” 271.
-[^9]: Doug Hickey, et al., “Unit 731 and moral repair,” 271.
+[^9]: Doug Hickey, et al., “Unit 731 and moral repair,” 271; Hal Gold, Unit 731: Testimony: Japan’s Wartime Human Experimentation Program (New York: Tuttle Publishing, 2004), 224.
 [^10]: Doug Hickey, et al., “Unit 731 and moral repair,” 271.
 [^11]: Kishor Johnson, “A Scientific Method to the Madness,” 26, 35, 38-40.
 [^12]: Kishor Johnson, “A Scientific Method to the Madness,” 30, 45-46.

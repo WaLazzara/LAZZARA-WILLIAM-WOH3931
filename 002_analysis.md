@@ -125,9 +125,7 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 
 
 # Embedding a Single Video
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PaulKerchumOnBataanDeathMarch'" %}
-{% include media.html pages=media %}
-
+https://www.youtube.com/embed/YFOlpU1vuZ4?si=GzOdgO7BfwDsGYz6 
 # Linking to a PDF File
 
 [The Japan Times: The Trial of Unit 731]({{site.baseurl}}media_files/The_trial_of_Unit_731.pdf)

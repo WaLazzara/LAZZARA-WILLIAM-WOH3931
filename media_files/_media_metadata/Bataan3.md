@@ -1,4 +1,4 @@
-----------
+---
 name: Bataan3
 media_type: image
 
@@ -10,4 +10,4 @@ source: U.S. Army
 
 _path: /media_files/images/Bataan3.jpg
 layout: media_description
-------------
+---

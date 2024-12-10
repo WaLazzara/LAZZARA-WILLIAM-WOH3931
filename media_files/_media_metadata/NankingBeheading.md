@@ -1,13 +1,13 @@
 ---
-name: BanditHunting
+name: NankingBeheading
 media_type: image
 
-_title: Japanese WWII Propaganda Postcard
-description: Soldiers heading off to go "Bandit Hunting." Top right emblem says "Tighten the chin strap of your iron helmet Bandit Hunting."
-creator: Japanese Wartime Propaganda
-_date: 1942
-source: eBay
+_title: Japanese Soldier moments before he beheads a Chinese man.
+description: Japanese soldiers were noted for their extreme cruetly and drastic actions against Chinese men. This Chinese farmer was captured and sat on his knees expecting his beheading at any moment.
+creator: Unknown
+_date: 1937
+source: Wikipedia Commons
 
-_path: /media_files/images/Screenshot 2024-11-19 211226.png
+_path: /media_files/images/NankingBeheading.jpg
 layout: media_description
 ---

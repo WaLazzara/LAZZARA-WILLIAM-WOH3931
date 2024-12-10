@@ -21,8 +21,7 @@ Do you have supplementary materials (such as media files) or links for further i
 
 [Queens Chronice: Holocaust Resource Center and Archives hosts Nanjing Massacre exhibit at Queensborough College](https://www.qchron.com/qboro/stories/genocide-and-denial-remembering-the-nanjing-massacre-at-the-hrca/article_ea5cd895-62c8-5774-b0f5-8627e6ff302a.html)
 
-[Shoah Foundation: 100 Nanjing Testimonies Indexed and Translated to English]
-(https://sfi.usc.edu/news/2019/11/26316-testimonies-1937-nanjing-massacre-china-fully-indexed-and-subtitled)
+[Shoah Foundation: 100 Nanjing Testimonies Indexed and Translated to English](https://sfi.usc.edu/news/2019/11/26316-testimonies-1937-nanjing-massacre-china-fully-indexed-and-subtitled)
 
 [National WWII Museum: Battle of Bataan Digital Exhibit](https://www.nationalww2museum.org/war/topics/battle-bataan-death-march)
 

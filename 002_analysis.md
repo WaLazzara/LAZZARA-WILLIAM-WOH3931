@@ -130,8 +130,6 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 {% include media.html pages=media %}
 
 # Linking to a PDF File
-
-
 [The Japan Times: The Trial of Unit 731]({{site.baseurl}}media_files/The_trial_of_Unit_731.pdf)
 
 # Citations

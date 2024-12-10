@@ -31,7 +31,7 @@ In addition to Biological testing, Unit 731 also performed weapons testing on th
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Unit731SprayingofVictim'" %}
 {% include media.html pages=media %}
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'ShirioIshii'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'ShiroIshii'" %}
 {% include media.html pages=media %}
 
 

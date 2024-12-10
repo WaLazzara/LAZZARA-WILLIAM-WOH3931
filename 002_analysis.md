@@ -116,6 +116,6 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 
 # Linking to a PDF File
 
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
+[The Japan Times: The Trial of Unit 731]({{site.baseurl}}media_files/The_trial_of_Unit_731.pdf)
 
 # Citations

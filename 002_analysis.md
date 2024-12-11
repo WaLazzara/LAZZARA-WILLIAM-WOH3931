@@ -124,12 +124,11 @@ When they finally completed this overwhelming journey and the Japanese soldiers 
 [^33]: Richard, “Miracle: Surviving the Bataan Death March,” 35-36.
 
 
-# Embedding a Single Video
+# Video
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PaulKerchum'" %} 
-{% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PaulKerchum'" %} {% include media.html pages=media %}
 
-# Linking to a PDF File
+# PDF
 [The Japan Times: The Trial of Unit 731]({{site.baseurl}}media_files/The_trial_of_Unit_731.pdf)
 
 # Citations
